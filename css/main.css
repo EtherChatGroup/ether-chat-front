@@ -1,3 +1,8 @@
+.formatImage {
+  height: 5%;
+  width: 5%;
+}
+
 .tiktok {
   text-shadow: #ff00de -1px -2px, #2addfd 2px 0px;
 }
